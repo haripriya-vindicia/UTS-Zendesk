@@ -1,0 +1,43 @@
+{
+  "ticket": {
+    "comment": { 
+    "body": "UTS requesting to solve this ticket "
+    
+    },
+    "status": "solved",    
+    "custom_fields": [
+                {
+                    "id": 360000040328,
+                    "value": "update"
+                },
+
+	{
+                    "id": 360000023888,
+                    "value": 3
+                },
+
+                
+                {
+                    "id": 31789017,
+                    "value": "feature_request"
+                },
+
+				{
+				
+	    			"id": 31789647,
+        				"value": "low"
+          
+				},
+				
+				{
+				
+	    			"id": 360000100607,
+        				"value": "api_object"
+          
+				}
+
+				
+    ]
+  }
+}
+

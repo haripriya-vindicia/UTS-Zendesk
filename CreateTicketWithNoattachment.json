@@ -1,0 +1,33 @@
+{
+  "ticket": {
+    "subject":  "This is Summary -Test Feb9 4pm ",
+    "comment":  { "body": "This is where you put Notes -Test Feb9 4pm" },
+    "priority": "low",
+    "status": "new",
+
+"custom_fields": [
+                	
+{
+                    	"id": 360000023888,
+                   	 "value": 1
+               	},
+
+				{				
+	    			"id": 360000023407,
+        				"value": "UTSID599999990"          
+				},
+				
+				{
+                	"id": 360000040328,
+                	"value": "create"
+            			},
+            	
+            			{
+                		"id": 31758828,
+                		"value": "prodtest"
+            		}
+            	
+                        	
+	]
+  }
+}

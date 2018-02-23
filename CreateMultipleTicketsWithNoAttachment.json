@@ -1,0 +1,104 @@
+{
+  "tickets": [
+  	{
+    "subject":  "This is Summary -CreateTickets in Bulk Tix1 ",
+    "comment":  { "body": "This is where you put Notes custom fields -CreateTickets in Bulk Tix1" },
+    "priority": "high",
+    "status": "new",
+
+	"custom_fields": [
+                {
+                    "id": 360000023888,
+                    "value": 1
+                },
+
+				{
+				
+	    			"id": 360000023407,
+        				"value": "UTSID200"
+          
+				},
+
+		        {
+                	"id": 360000040328,
+                	"value": "create"
+            	},
+
+                {
+                	"id": 31758828,
+                	"value": "prodtest"
+            	}
+
+
+	]
+  },
+  
+{
+    "subject":  "This is Summary -CreateTickets in Bulk Tix2 ",
+    "comment":  { "body": "This is where you put Notes custom fields -CreateTickets in Bulk Tix2" },
+    "priority": "low",
+    "status": "new",
+
+	"custom_fields": [
+                {
+                    "id": 360000023888,
+                    "value": 1
+                },
+
+				{
+				
+	    			"id": 360000023407,
+        			"value": "UTSID300"
+          
+				},
+
+		       {
+                	"id": 360000040328,
+                	"value": "create"
+            	},
+
+                {
+                    "id": 31758828,
+                    "value": "prodtest"
+                }
+
+
+	]
+},
+  
+ {
+    "subject":  "This is Summary -CreateTickets in Bulk Tix3 ",
+    "comment":  { "body": "This is where you put Notes custom fields -CreateTickets in Bulk Tix3" },
+    "priority": "low",
+    "status": "new",
+
+	"custom_fields": [
+                {
+                    "id": 360000023888,
+                    "value": 1
+                },
+
+				{
+				
+	    			"id": 360000023407,
+        			"value": "UTSID400"
+          
+				},
+
+                {
+                	"id": 360000040328,
+                	"value": "create"
+            	},
+
+		      {
+                	"id": 31758828,
+                	"value": "production"
+            	}
+
+
+	]
+ }
+ ]
+  
+
+}

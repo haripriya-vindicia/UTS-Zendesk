@@ -1,0 +1,22 @@
+{
+  "ticket": {
+    "comment": { 
+    "body": "UTS sending more notes ", 
+    "public": true,
+      },
+    "status":  "open",
+    
+    "custom_fields": [
+                
+	             {
+                    	"id": 360000023888,
+                   	 "value": 2
+               },
+
+              {
+                    "id": 360000040328,
+                    "value": "update"
+                }
+    ]
+  }
+}
